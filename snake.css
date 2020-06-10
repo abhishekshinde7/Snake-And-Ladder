@@ -1,0 +1,25 @@
+table{
+    background-image: url(Capture5.JPG);
+    width: 511px;
+    height: 516px;
+}
+td{
+    height: 10%;
+    width: 10%;
+}
+body{
+    background-color: blueviolet;
+}
+.hidden {
+    display: none;
+}
+.Visible{
+    display:block;
+}
+.PawnCss {
+    height: 49%;
+    width: 49%;
+    padding:0px;
+    border:0px;
+    float: left;
+}
